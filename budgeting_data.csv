@@ -1,0 +1,256 @@
+Transaction Date,Transaction Type,Full description,Merchant name,Category name,Sub-category name,Amount,Regular occurance
+2026-01-20,Debit,PII,PII,Entertainment,Patreon,-0.25,True
+2026-01-19,POS,PII,PII,Food,Dining & Nicotine,-8.53,False
+2026-01-18,POS,PII,PII,Food,Dining & Nicotine,-28.18,False
+2026-01-18,POS,PII,PII,Food,Dining & Nicotine,-2.02,False
+2026-01-17,POS,PII,PII,Entertainment,Patreon,-8.48,True
+2026-01-17,POS,PII,PII,Food,Groceries,-111.02,False
+2026-01-16,POS,PII,PII,Software & Tools,Writing Editor,-31.8,True
+2026-01-16,ATM,PII,PII,Home,Laundry,-63.0,False
+2026-01-16,FEE,PII,PII,Fees,ATM Fee,-3.0,False
+2026-01-16,POS,PII,PII,Food,Dining & Nicotine,-9.08,False
+2026-01-16,POS,PII,PII,Shopping,Supplies,-24.75,False
+2026-01-15,POS,PII,PII,Shopping,Clothing,-20.21,False
+2026-01-21,POS,PII,PII,Food,Dining & Nicotine,-3.19,False
+2026-01-21,POS,PII,PII,Auto,Gas,-35.7,False
+2026-01-23,Credit,PII,PII,Income,Part-time Job,973.16,True
+2026-01-26,Debit,PII,PII,Utilities,Phone & internet,-85.78,True
+2026-01-26,Debit,PII,PII,Auto,Car insurance,-81.0,True
+2026-01-25,POS,PII,PII,Entertainment,Books & Learning,-24.99,True
+2026-01-25,POS,PII,PII,Food,Groceries,-9.16,False
+2026-01-24,POS,PII,PII,Shopping,Clothing,-132.67,False
+2026-01-24,POS,PII,PII,Food,Dining & Nicotine,-20.49,False
+2026-01-24,POS,PII,PII,Entertainment,Books & Learning,-15.99,True
+2026-01-24,POS,PII,PII,Food,Dining & Nicotine,-13.22,False
+2026-01-24,POS,PII,PII,Shopping,Clothing,-23.52,False
+2026-01-24,POS,PII,PII,Shopping,Clothing,-3.24,False
+2026-01-24,POS,PII,PII,Food,Dining & Nicotine,-5.13,False
+2026-01-23,POS,PII,PII,Auto,Gas,-20.83,False
+2026-01-23,POS,PII,PII,Food,Dining & Nicotine,-13.83,False
+2026-01-23,POS,PII,PII,Food,Dining & Nicotine,-14.31,False
+2026-01-23,POS,PII,PII,Food,Groceries,-187.17,False
+2026-01-22,POS,PII,PII,Shopping,Other Shopping,-11.73,False
+2026-01-22,POS,PII,PII,Fees,Parking,-5.45,False
+2026-01-25,POS,PII,PII,Food,Dining & Nicotine,-12.72,False
+2026-01-27,POS,PII,PII,Entertainment,Patreon,-4.88,True
+2026-01-27,POS,PII,PII,Food,Dining & Nicotine,-10.23,False
+2026-01-27,POS,PII,PII,Food,Dining & Nicotine,-15.49,False
+2026-01-28,POS,PII,PII,Food,Dining & Nicotine,-18.5,False
+2026-01-30,Debit,PII,PII,Transfers & Payments,Truist Transfer,-10.0,True
+2026-01-29,POS,PII,PII,Food,Dining & Nicotine,-18.5,False
+2026-01-29,POS,PII,PII,Food,Dining & Nicotine,-9.91,False
+2026-02-01,POS,PII,PII,Food,Dining & Nicotine,-6.59,False
+2026-02-01,POS,PII,PII,Entertainment,Patreon,-7.3,True
+2026-01-31,POS,PII,PII,Food,Dining & Nicotine,-34.0,False
+2026-01-31,POS,PII,PII,Food,Dining & Nicotine,-4.77,False
+2026-01-30,POS,PII,PII,Food,Dining & Nicotine,-19.24,False
+2026-02-02,POS,PII,PII,Food,Dining & Nicotine,-18.75,False
+2026-02-04,POS,PII,PII,Food,Dining & Nicotine,-3.18,False
+2026-02-04,Debit,PII,PII,Insurance,Medical insurance,-57.88,True
+2026-02-03,POS,PII,PII,Shopping,Supplies,-25.6,False
+2026-02-03,POS,PII,PII,Shopping,Gifts,-24.95,False
+2026-02-06,POS,PII,PII,Food,Dining & Nicotine,-14.59,False
+2026-02-05,POS,PII,PII,Entertainment,Patreon,-5.3,True
+2026-02-04,POS,PII,PII,Food,Dining & Nicotine,-7.55,False
+2026-02-06,Credit,PII,PII,Income,Part-time Job,3382.05,True
+2026-02-07,POS,PII,PII,Food,Groceries,-26.04,False
+2026-02-07,POS,PII,PII,Food,Dining & Nicotine,-33.43,False
+2026-02-07,POS,PII,PII,Auto,Gas,-31.61,False
+2026-02-07,POS,PII,PII,Food,Dining & Nicotine,-22.75,False
+2026-02-06,POS,PII,PII,Shopping,Gifts,-84.75,False
+2026-02-06,POS,PII,PII,Lodging,Hotel,-2.26,False
+2026-02-06,POS,PII,PII,Food,Dining & Nicotine,-29.0,False
+2026-02-06,POS,PII,PII,Lodging,Hotel,-114.31,False
+2026-02-08,POS,PII,PII,Shopping,Other Shopping,-10.0,False
+2026-02-08,POS,PII,PII,Food,Dining & Nicotine,-13.33,False
+2026-02-08,POS,PII,PII,Auto,Car Wash,-12.0,False
+2026-02-11,Debit,PII,PII,Loans,Student loans,-50.0,True
+2026-02-11,Debit,PII,PII,Auto,Loan,-50.0,False
+2026-02-10,POS,PII,PII,Home,Pet Care,-210.34,False
+2026-02-09,POS,PII,PII,Shopping,Clothing,-64.04,False
+2026-02-11,POS,PII,PII,Entertainment,Games,-1.99,False
+2026-02-10,POS,PII,PII,Food,Groceries,-157.51,False
+2026-02-10,POS,PII,PII,Food,Groceries,-13.87,False
+2026-02-13,Debit,PII,PII,Entertainment,Patreon,-0.05,True
+2026-02-12,POS,PII,PII,Entertainment,Patreon,-1.52,True
+2026-02-12,POS,PII,PII,Entertainment,Games,-9.99,False
+2026-02-12,POS,PII,PII,Entertainment,Games,-19.99,False
+2026-02-12,POS,PII,PII,Entertainment,Games,-0.99,False
+2026-02-11,POS,PII,PII,Shopping,Clothing,-593.54,False
+2026-02-17,Debit,PII,PII,Insurance,Life Insurance,-16.65,True
+2026-02-16,POS,PII,PII,Software & Tools,Writing Editor,-31.8,True
+2026-02-16,POS,PII,PII,Food,Dining & Nicotine,-8.92,False
+2026-02-15,POS,PII,PII,Food,Dining & Nicotine,-12.76,False
+2026-02-14,POS,PII,PII,Food,Dining & Nicotine,-57.0,False
+2026-02-13,POS,PII,PII,Food,Dining & Nicotine,-34.99,False
+2026-02-13,POS,PII,PII,Food,Groceries,-37.51,False
+2026-02-18,Debit,PII,PII,Entertainment,Patreon,-0.25,True
+2026-02-17,POS,PII,PII,Entertainment,Patreon,-8.48,True
+2026-02-18,POS,PII,PII,Food,Dining & Nicotine,-20.18,False
+2026-02-19,POS,PII,PII,Entertainment,Games,-3.99,False
+2026-02-19,POS,PII,PII,Food,Dining & Nicotine,-26.52,False
+2026-02-19,POS,PII,PII,Food,Dining & Nicotine,-16.0,False
+2026-02-19,POS,PII,PII,Shopping,Return Shipping,-2.93,False
+2026-02-19,POS,PII,PII,Home,Tax Services,-445.0,False
+2026-02-19,POS,PII,PII,Shopping,Supplies,-143.69,False
+2026-02-22,POS,PII,PII,Entertainment,Books & Learning,-23.62,True
+2026-02-22,POS,PII,PII,Food,Dining & Nicotine,-16.71,False
+2026-02-22,POS,PII,PII,Food,Groceries,-31.31,False
+2026-02-21,POS,PII,PII,Food,Groceries,-69.88,False
+2026-02-21,POS,PII,PII,Food,Dining & Nicotine,-7.02,False
+2026-02-20,POS,PII,PII,Food,Groceries,-65.77,False
+2026-02-23,POS,PII,PII,Shopping,Clothing,296.77,False
+2026-02-24,Debit,PII,PII,Auto,Car insurance,-81.0,True
+2026-02-23,POS,PII,PII,Auto,Gas,-32.67,False
+2026-02-23,POS,PII,PII,Food,Dining & Nicotine,-8.09,False
+2026-02-24,POS,PII,PII,Food,Dining & Nicotine,-9.03,False
+2026-02-24,POS,PII,PII,Entertainment,Books & Learning,-15.99,True
+2026-02-25,Credit,PII,PII,CashApp,Cash App To/From,338.34,False
+2026-02-26,POS,PII,PII,Auto,Gas,-21.58,False
+2026-02-26,POS,PII,PII,Food,Dining & Nicotine,-12.9,False
+2026-02-26,Debit,PII,PII,Utilities,Phone & internet,-85.78,True
+2026-02-25,POS,PII,PII,Entertainment,Books & Learning,-24.99,True
+2026-02-27,Debit,PII,PII,Transfers & Payments,Truist Transfer,-10.0,True
+2026-02-26,POS,PII,PII,Food,Dining & Nicotine,-10.77,False
+2026-02-26,POS,PII,PII,Food,Dining & Nicotine,-20.65,False
+2026-02-26,POS,PII,PII,Food,Dining & Nicotine,-22.26,False
+2026-02-26,POS,PII,PII,Food,Dining & Nicotine,-14.21,False
+2026-02-26,POS,PII,PII,Food,Dining & Nicotine,-7.25,False
+2026-03-01,POS,PII,PII,Entertainment,Patreon,-7.3,True
+2026-02-28,POS,PII,PII,Food,Dining & Nicotine,-9.25,False
+2026-02-28,POS,PII,PII,Auto,Gas,-32.98,False
+2026-02-28,POS,PII,PII,Food,Dining & Nicotine,-9.51,False
+2026-02-28,POS,PII,PII,Food,Dining & Nicotine,-8.13,False
+2026-02-27,POS,PII,PII,Entertainment,Patreon,-4.88,True
+2026-02-27,POS,PII,PII,Food,Dining & Nicotine,-4.7,False
+2026-02-27,POS,PII,PII,Food,Dining & Nicotine,-28.26,False
+2026-02-27,POS,PII,PII,Entertainment,Games,-13.99,False
+2026-02-27,POS,PII,PII,Entertainment,Games,-8.49,False
+2026-02-27,POS,PII,PII,Food,Dining & Nicotine,-7.22,False
+2026-03-03,Debit,PII,PII,Insurance,Medical insurance,-57.88,True
+2026-03-03,POS,PII,PII,Healthcare,Therapy,-73.55,False
+2026-03-04,Credit,PII,PII,Income,Tax Return,1524.0,False
+2026-03-04,POS,PII,PII,Entertainment,Games,-8.49,False
+2026-03-04,POS,PII,PII,Entertainment,Games,-6.99,False
+2026-03-04,ATM,PII,PII,CashApp,Cash App To/From,-400.0,False
+2026-03-05,POS,PII,PII,Food,Dining & Nicotine,-11.51,False
+2026-03-05,POS,PII,PII,Auto,Gas,-24.64,False
+2026-03-05,POS,PII,PII,Entertainment,Patreon,-5.3,True
+2026-03-05,POS,PII,PII,Food,Dining & Nicotine,-11.95,False
+2026-03-05,POS,PII,PII,Auto,Gas,-39.48,False
+2026-03-08,POS,PII,PII,Shopping,Other Shopping,-10.0,False
+2026-03-08,POS,PII,PII,Food,Dining & Nicotine,-30.0,False
+2026-03-08,POS,PII,PII,Auto,Gas,-34.28,False
+2026-03-08,POS,PII,PII,Food,Dining & Nicotine,-11.65,False
+2026-03-08,POS,PII,PII,Food,Dining & Nicotine,-6.3,False
+2026-03-07,POS,PII,PII,Food,Dining & Nicotine,-34.0,False
+2026-03-06,POS,PII,PII,Food,Dining & Nicotine,-39.27,False
+2026-03-06,POS,PII,PII,Shopping,Supplies,-37.97,False
+2026-03-06,POS,PII,PII,Food,Dining & Nicotine,-12.59,False
+2026-03-10,Debit,PII,PII,Software & Tools,VPN,-1.44,False
+2026-03-09,POS,PII,PII,Entertainment,Books & Learning,-26.24,True
+2026-03-09,POS,PII,PII,Software & Tools,VPN,-47.88,False
+2026-03-10,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-03-11,Credit,PII,PII,Income,Part-time Job,973.16,True
+2026-03-11,POS,PII,PII,Software & Tools,Job Searching,-31.79,True
+2026-03-11,POS,PII,PII,Shopping,Supplies,-31.73,False
+2026-03-13,Debit,PII,PII,Entertainment,Patreon,-0.05,True
+2026-03-12,POS,PII,PII,Food,Dining & Nicotine,-44.99,False
+2026-03-12,POS,PII,PII,Entertainment,Patreon,-1.52,True
+2026-03-12,POS,PII,PII,Food,Dining & Nicotine,-21.55,False
+2026-03-16,Debit,PII,PII,Insurance,Life Insurance,-16.65,True
+2026-03-15,POS,PII,PII,Auto,Gas,-32.2,False
+2026-03-15,POS,PII,PII,Entertainment,Games,-20.99,False
+2026-03-15,POS,PII,PII,Entertainment,Games,-6.99,False
+2026-03-14,POS,PII,PII,Food,Dining & Nicotine,-41.51,False
+2026-03-14,POS,PII,PII,Food,Groceries,-37.13,False
+2026-03-14,POS,PII,PII,Food,Groceries,-99.12,False
+2026-03-16,Credit,PII,PII,Income,Tax Return,808.0,False
+2026-03-16,POS,PII,PII,Software & Tools,Writing Editor,-31.8,True
+2026-03-16,POS,PII,PII,Food,Dining & Nicotine,-14.46,False
+2026-03-18,Debit,PII,PII,Entertainment,Patreon,-0.25,True
+2026-03-17,POS,PII,PII,Entertainment,Games,-5.99,False
+2026-03-17,POS,PII,PII,Entertainment,Patreon,-8.48,True
+2026-03-17,POS,PII,PII,Entertainment,Games,-3.75,False
+2026-03-18,Credit,PII,PII,Income,Part-time Job,1026.16,True
+2026-03-18,POS,PII,PII,Entertainment,Games,-13.99,False
+2026-03-18,POS,PII,PII,Entertainment,Games,-6.99,False
+2026-03-18,POS,PII,PII,Entertainment,Games,-12.49,False
+2026-03-18,POS,PII,PII,Entertainment,Games,-13.99,False
+2026-03-18,POS,PII,PII,Food,Dining & Nicotine,-8.11,False
+2026-03-18,POS,PII,PII,Food,Dining & Nicotine,-11.09,False
+2026-03-20,Debit,PII,PII,Auto,Loan,-893.65,False
+2026-03-19,POS,PII,PII,Food,Dining & Nicotine,-5.33,False
+2026-03-22,POS,PII,PII,Entertainment,Books & Learning,-14.95,True
+2026-03-21,POS,PII,PII,Food,Dining & Nicotine,-16.03,False
+2026-03-21,POS,PII,PII,Food,Dining & Nicotine,-18.88,False
+2026-03-20,POS,PII,PII,Food,Groceries,-119.4,False
+2026-03-20,POS,PII,PII,Shopping,Supplies,-31.73,False
+2026-03-24,Debit,PII,PII,Auto,Car insurance,-81.0,True
+2026-03-23,POS,PII,PII,Food,Dining & Nicotine,-26.69,False
+2026-03-24,POS,PII,PII,Entertainment,Books & Learning,-15.99,True
+2026-03-24,POS,PII,PII,Food,Groceries,-74.24,False
+2026-03-26,Debit,PII,PII,Utilities,Phone & internet,-85.78,True
+2026-03-25,POS,PII,PII,Healthcare,Medicine,-18.14,False
+2026-03-25,POS,PII,PII,Food,Dining & Nicotine,-27.0,False
+2026-03-25,POS,PII,PII,Auto,Gas,-46.48,False
+2026-03-24,POS,PII,PII,Shopping,Supplies,-38.19,False
+2026-03-25,POS,PII,PII,Food,Groceries,-12.68,False
+2026-03-29,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-03-29,POS,PII,PII,Food,Dining & Nicotine,-15.14,False
+2026-03-28,POS,PII,PII,Food,Dining & Nicotine,-7.66,False
+2026-03-28,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-03-28,POS,PII,PII,Food,Dining & Nicotine,-10.34,False
+2026-03-28,POS,PII,PII,Healthcare,Medicine,-19.47,False
+2026-03-27,POS,PII,PII,Entertainment,Games,-13.99,False
+2026-03-27,POS,PII,PII,Entertainment,Patreon,-4.88,True
+2026-03-30,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-03-29,POS,PII,PII,Food,Groceries,-245.33,False
+2026-03-31,POS,PII,PII,Food,Groceries,16.18,False
+2026-04-01,Debit,PII,PII,Transfers & Payments,Truist Transfer,-10.0,True
+2026-03-31,POS,PII,PII,Food,Dining & Nicotine,-15.6,False
+2026-03-31,POS,PII,PII,Food,Dining & Nicotine,-9.48,False
+2026-04-01,POS,PII,PII,Food,Groceries,-93.73,False
+2026-04-01,POS,PII,PII,Food,Groceries,-11.69,False
+2026-04-01,POS,PII,PII,Food,Dining & Nicotine,-5.0,False
+2026-04-01,POS,PII,PII,Food,Dining & Nicotine,-5.34,False
+2026-04-01,POS,PII,PII,Food,Dining & Nicotine,-10.34,False
+2026-04-01,POS,PII,PII,Healthcare,Therapy,-9.39,False
+2026-04-01,POS,PII,PII,Entertainment,Patreon,-7.3,True
+2026-04-03,Debit,PII,PII,Insurance,Medical insurance,-57.88,True
+2026-04-06,POS,PII,PII,Food,Dining & Nicotine,-7.52,False
+2026-04-05,POS,PII,PII,Entertainment,Patreon,-5.3,True
+2026-04-05,POS,PII,PII,Food,Dining & Nicotine,-4.36,False
+2026-04-04,POS,PII,PII,Food,Dining & Nicotine,-7.69,False
+2026-04-04,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-04-06,POS,PII,PII,Food,Groceries,-49.82,False
+2026-04-05,POS,PII,PII,Food,Dining & Nicotine,-17.71,False
+2026-04-07,POS,PII,PII,Food,Dining & Nicotine,-15.14,False
+2026-04-07,POS,PII,PII,Home,Laundry,-50.0,False
+2026-04-07,POS,PII,PII,Food,Groceries,-57.28,False
+2026-04-07,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-04-08,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-04-09,POS,PII,PII,Food,Groceries,-150.08,False
+2026-04-09,POS,PII,PII,Food,Dining & Nicotine,-14.9,False
+2026-04-08,POS,PII,PII,Shopping,Other Shopping,-10.0,False
+2026-04-13,Debit,PII,PII,Entertainment,Patreon,-0.7,True
+2026-04-13,Debit,PII,PII,Entertainment,Patreon,-0.05,True
+2026-04-13,POS,PII,PII,Entertainment,Streaming,-15.89,False
+2026-04-12,POS,PII,PII,Entertainment,Patreon,-23.41,True
+2026-04-12,POS,PII,PII,Entertainment,Patreon,-1.52,True
+2026-04-11,POS,PII,PII,Software & Tools,Job Searching,-31.79,True
+2026-04-11,POS,PII,PII,Food,Dining & Nicotine,-4.06,False
+2026-04-11,POS,PII,PII,Shopping,Supplies,-36.25,False
+2026-04-10,POS,PII,PII,Food,Dining & Nicotine,-6.42,False
+2026-04-10,POS,PII,PII,Food,Dining & Nicotine,-39.52,False
+2026-04-14,Debit,PII,PII,Loans,Student loans,-144.0,True
+2026-04-15,Debit,PII,PII,Insurance,Life Insurance,-16.65,True
+2026-04-15,POS,PII,PII,Food,Dining & Nicotine,-8.11,False
+2026-04-15,POS,PII,PII,Food,Dining & Nicotine,-37.66,False
+2026-04-15,POS,PII,PII,Food,Groceries,-85.35,False
+2026-04-15,POS,PII,PII,Auto,Gas,-44.86,False
+2026-04-17,POS,PII,PII,Food,Dining & Nicotine,-11.96,False
+2026-04-16,POS,PII,PII,Food,Dining & Nicotine,-14.48,False
+2026-04-16,POS,PII,PII,Software & Tools,Writing Editor,-31.8,True
+2026-04-16,POS,PII,PII,Food,Dining & Nicotine,-14.89,False
+2026-04-16,POS,PII,PII,Food,Dining & Nicotine,-8.84,False
