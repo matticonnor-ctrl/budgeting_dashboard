@@ -1,5 +1,5 @@
 # Budgeting Dashboard
-**Version 0.1** | By Matthew Ian Connor
+**Version 1.0** | By Matthew Ian Connor
 
 An interactive personal finance dashboard built with Plotly Dash. Load your transaction data as a CSV and explore your spending and income through charts, statistics, and a budget planner — all in your browser.
 
