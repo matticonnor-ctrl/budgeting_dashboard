@@ -1,6 +1,6 @@
 description = '''
-Budgeting Dashboard
-Version 0.1
+Budgeting Dashboard - LinkedIn Release
+Version 1.0
 By Matthew Ian Connor
 '''
 
@@ -16,7 +16,7 @@ Future Workflow:
 8.  done - automatic window launch on script run
 9.  done - finish budgeting tab
 10. done - month-over-month divide-by-zero error
-11. clean for release
+11. done - clean for release
 12. a seperate python file that automatically cleans new data and appends it to old data
 13. a total row for descriptive statistics
 14. export button for budget review
